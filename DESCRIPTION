@@ -1,0 +1,12 @@
+Package: purrrrrrrrrrrrrrrrrrrrrrrr
+Type: Package
+Title: This Package Is Not Related To purrr At All.
+Version: 0.0.0
+Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
+Description: Display images of cats for great justice.
+License: MIT + file LICENSE
+Imports:
+  httr,
+  shiny
+LazyData: TRUE
+RoxygenNote: 5.0.1
