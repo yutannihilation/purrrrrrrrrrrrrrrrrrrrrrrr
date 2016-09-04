@@ -2,9 +2,18 @@
 % Please edit documentation in R/http_cat.R
 \name{http_cat}
 \alias{http_cat}
+\alias{http_cat.default}
+\alias{http_cat.response}
 \title{Display Cats For Status Code}
 \usage{
-http_cat(code)
+http_cat(x)
+
+\method{http_cat}{default}(x)
+
+\method{http_cat}{response}(x)
+}
+\arguments{
+\item{x}{status code number or response object}
 }
 \description{
 Display Cats For Status Code
