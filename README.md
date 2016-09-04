@@ -1,5 +1,7 @@
 # purrrrrrrrrrrrrrrrrrrrrrrr
 
+[![Travis-CI Build Status](https://travis-ci.org/yutannihilation/purrrrrrrrrrrrrrrrrrrrrrrr.svg?branch=master)](https://travis-ci.org/yutannihilation/purrrrrrrrrrrrrrrrrrrrrrrr)
+
 This package is not related to purrr at all. This package just displays [HTTP Cats](https://http.cat/) for the given status code.
 
 ## Installation
